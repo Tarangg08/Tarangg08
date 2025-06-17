@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Tarang (or your name!), a passionate Full Stack Developer with a knack for building robust and scalable applications. I specialize in bringing ideas to life using .NET for powerful backend solutions and React for dynamic and intuitive user interfaces.
 
 <!--
 **Tarangg08/Tarangg08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
