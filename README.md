@@ -1,13 +1,15 @@
 # 💫 About Me:
-Hey there! I'm Tarang Gupta, and I'm currently honing my skills as a Junior Software Developer at SFA Technologies. In this role, I'm actively engaged in developing exciting projects, leveraging my expertise in React.js for dynamic user interfaces and .NET Core for robust backend solutions.<br><br>I'm a passionate Full Stack Developer with a knack for building scalable applications and bringing ideas to life. I love diving into new technologies and constantly refining my craft.<br><br>Let's connect and build something impactful!
+Hey there! I'm Tarang Gupta, and I'm currently honing my skills as a Junior Software Developer at SFA Technologies. In this role, I'm actively engaged in developing exciting projects, leveraging my expertise in React.js for dynamic user interfaces and .NET Core for robust backend solutions.I'm a passionate Full Stack Developer with a knack for building scalable applications and bringing ideas to life. I love diving into new technologies and constantly refining my craft.<br><br>Let's connect and build something impactful!
 
-<img src="this_gif.gif" alt="Alt Text" width="300" height="300"/>
+
 
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tarangg.08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarangg.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarang-gupta08) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tarang08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tarang0816) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptatarang08@gmail.com)
 
 
 
+<img  src="this_gif.gif" alt="Alt Text" width="300" height="300"/>
 
 
 
